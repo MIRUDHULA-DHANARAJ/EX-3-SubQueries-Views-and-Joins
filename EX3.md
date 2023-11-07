@@ -1,4 +1,5 @@
-# EX 3 SubQueries, Views and Joins 
+# EX 3 SubQueries, Views and Joins
+## DATE:18.08.2023
 ## AIM:
 To create a manager database and execute DML queries using SQL
 ## DML:
